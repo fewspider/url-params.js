@@ -5,6 +5,7 @@
   ],
   "description": "just a tiny library to fetch url parameters",
   "main": "url-params.js",
+  "version": "0.0.1",
   "moduleType": [
     "amd",
     "node"
