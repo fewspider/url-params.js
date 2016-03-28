@@ -5,7 +5,7 @@
 if url like 
 `http://localhost:7700/customer_service/after_sales?id=1&tree-node=2`
 
-than params is
+than params `window.urlParams` is
 ```js
 {
   id: 1,

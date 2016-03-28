@@ -14,5 +14,5 @@
       urlParams[decode(match[1])] = decode(match[2]);
   })();
 
-  exports.urlParams = urlParams
+  window.urlParams = urlParams;
 })();
