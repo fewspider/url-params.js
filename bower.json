@@ -1,0 +1,25 @@
+{
+  "name": "url-params.js",
+  "authors": [
+    "fewspider <fewspider@gmail.com>"
+  ],
+  "description": "just a tiny library to fetch url parameters",
+  "main": "url-params.js",
+  "moduleType": [
+    "amd",
+    "node"
+  ],
+  "keywords": [
+    "url",
+    "parameters"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
